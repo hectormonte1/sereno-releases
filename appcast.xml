@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Sereno</title>
+    <link>https://github.com/hectormonte1/sereno-releases</link>
+    <description>Actualizaciones de Sereno</description>
+    <language>es</language>
+    <item>
+      <title>Sereno 3.2.0</title>
+      <pubDate>Sat, 10 Oct 2026 20:20:17 +0000</pubDate>
+      <sparkle:version>8</sparkle:version>
+      <sparkle:shortVersionString>3.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<h2>Sereno 3.2.0</h2>
+<ul>
+  <li><strong>Actualizaciones automáticas.</strong> Sereno busca una versión nueva una vez al día y te avisa antes de instalarla. Puedes desactivarlo en Preferencias › Actualizaciones.</li>
+  <li><strong>Buscar actualizaciones…</strong> en el menú ◷ y en Preferencias, para revisar cuando quieras.</li>
+  <li><strong>Actualizaciones verificadas.</strong> Cada descarga se comprueba con una firma EdDSA antes de instalarse.</li>
+  <li><strong>Nuevo instalador.</strong> Abre el DMG y arrastra Sereno a Aplicaciones.</li>
+</ul>
+<p>Tu historial sigue solo en tu Mac. La única conexión de red es la consulta del archivo de actualizaciones; no se envían datos de uso.</p>
+      ]]></description>
+      <enclosure url="https://github.com/hectormonte1/sereno-releases/releases/download/v3.2.0/Sereno-3.2.0.dmg" length="4777453" type="application/octet-stream" sparkle:edSignature="kz1dCBTjCQwivVNlsRasCMqSneQZBec7zuzm3c2wl8hb2/Gpsu6ZDUD3H8QIUpx+NOeKiJSAMmKTvQK2iIdpAw=="/>
+    </item>
+  </channel>
+</rss>
