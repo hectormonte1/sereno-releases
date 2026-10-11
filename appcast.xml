@@ -6,6 +6,23 @@
     <description>Actualizaciones de Sereno</description>
     <language>es</language>
     <item>
+      <title>Sereno 3.3.1</title>
+      <pubDate>Sun, 11 Oct 2026 06:23:15 +0000</pubDate>
+      <sparkle:version>11</sparkle:version>
+      <sparkle:shortVersionString>3.3.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<h2>Sereno 3.3.1</h2>
+<ul>
+<li>Ocultar detecta también video sin bordes que cubre la pantalla del notch y presentaciones que esconden la barra de menús.</li>
+<li>El notch desaparece por completo en pantalla completa; los avisos de pausa siguen apareciendo durante cuatro segundos.</li>
+<li>La detección se actualiza al cambiar de app, de Space, de presentación y cada dos segundos.</li>
+<li>Diagnóstico opcional de pantalla completa para facilitar la revisión de reproductores.</li>
+</ul>
+      ]]></description>
+      <enclosure url="https://github.com/hectormonte1/sereno-releases/releases/download/v3.3.1/Sereno-3.3.1.dmg" length="5045556" type="application/octet-stream" sparkle:edSignature="MH7hHpsA77idThEe/pBNe1RwziCfFfYK0ZkwBovc56krSDCE/OFCEBJvlgrG4xSCw6D/CXmr+msuu0n9tRf0Cg=="/>
+    </item>
+    <item>
       <title>Sereno 3.3.0</title>
       <pubDate>Sun, 11 Oct 2026 02:10:30 +0000</pubDate>
       <sparkle:version>10</sparkle:version>
