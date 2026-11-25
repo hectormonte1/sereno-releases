@@ -15,14 +15,9 @@ Este repositorio solo contiene los instaladores y el archivo de actualizaciones 
 2. Abre el DMG y arrastra **Sereno** a **Aplicaciones**.
 3. Abre Sereno desde Aplicaciones. Aparecerá el símbolo ◷ en la barra de menús.
 
-## Cómo abrirla la primera vez
+## Firma y notarización
 
-Sereno es gratuita y está firmada por su autor, pero **no está notarizada por Apple** (eso requiere una cuenta de pago de Apple Developer). Por eso macOS la bloquea la primera vez que la abres. Solo tienes que autorizarla una vez:
-
-- **macOS 15 Sequoia o posterior:** intenta abrir Sereno, cierra el aviso, ve a **Ajustes del Sistema › Privacidad y seguridad**, baja hasta el mensaje sobre Sereno y pulsa **Abrir igualmente**. Confirma con tu contraseña o Touch ID.
-- **macOS 14 Sonoma:** haz **clic derecho (o Control‑clic) sobre Sereno › Abrir** y luego pulsa **Abrir** en el aviso. También funciona el botón **Abrir igualmente** de Privacidad y seguridad.
-
-Después de eso, Sereno se abre normalmente.
+Desde la versión 3.3.2, Sereno está firmada con Developer ID y notarizada por Apple. Se abre a la primera, sin avisos de seguridad de macOS. Puedes comprobar la descarga con el SHA-256 publicado en las notas de cada versión.
 
 ## Actualizaciones
 
